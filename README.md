@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src=”https://user-images.githubusercontent.com/94015769/198691075-a8816331-3bef-4fa5-aea7-5c0d202a946c.png" alt=”my banner”>
 <!--
 **v-liudwinski/v-liudwinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
