@@ -25,8 +25,9 @@ existing skills, learn new ones and grow as a specialist.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ### 📈GitHub stats:
-[![lymagic's github stats](https://github-readme-stats.vercel.app/api?username=lymagics)](https://github.com/lymagics) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lymagics&layout=compact)](https://github.com/lymagics)
+[![lymagic's github stats](https://github-readme-stats.vercel.app/api?username=lymagics)](https://github.com/v-liudwinski) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lymagics&layout=compact)](https://github.com/v-liudwinski)
+
 <!--
 **v-liudwinski/v-liudwinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
