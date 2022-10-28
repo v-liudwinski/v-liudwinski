@@ -1,4 +1,13 @@
 ![gitBanner](https://user-images.githubusercontent.com/94015769/198691075-a8816331-3bef-4fa5-aea7-5c0d202a946c.png)
+# I'm a Backend .NET Developer 💻
+I have always been interested in creating something new and
+progressive, something that will do good. And when I discovered the
+world of software development, I knew that this was exactly what I
+wanted to do. That is why I have an unstoppable desire to consolidate
+existing skills, learn new ones and grow as a specialist.
+### Contact me:
+<a href="https://www.instagram.com/liudwinski/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/vitalii-liudvynskyi-16b639217/"><img align="left">
 <!--
 **v-liudwinski/v-liudwinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
